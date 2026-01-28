@@ -1,8 +1,7 @@
-# Emil S. Spasov
 
-**Specialization project:** "Proximity Effects and RKKY Interactions in
-s-wave and p-wave Superconducting Nanostructures" (2025)
 
+# Specialization project: "Proximity Effects and RKKY Interactions in s-wave and p-wave Superconducting Nanostructures" (2025)
+** Emil S. Spasov ** 
 - [Download PDF](project.pdf)
 
 ## Abstract
